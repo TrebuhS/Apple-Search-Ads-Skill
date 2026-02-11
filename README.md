@@ -1,6 +1,6 @@
 # Apple Search Ads Skill
 
-A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) that lets Claude manage your Apple Search Ads campaigns, ad groups, keywords, and reports through the [asa-cli](https://github.com/TrebuhS/asa-cli) tool.
+This [skill](https://docs.anthropic.com/en/docs/claude-code/skills) lets agents manage your Apple Search Ads campaigns, ad groups, keywords, and reports through the [asa-cli](https://github.com/TrebuhS/asa-cli) tool.
 
 ## What it does
 
